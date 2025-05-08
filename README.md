@@ -1,1 +1,1 @@
-Print = "hi"
+"hi"
